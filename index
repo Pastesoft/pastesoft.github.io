@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+    <html lang="en">
+
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="msvalidate.01" content="055F5DAF7BB69C0CE2A9087FB9FBDA38" />
+            <meta name="WebsiteSpark" content="1WidsnvpaF3" />
+            <meta name="keywords" content="Design, Technologies, Computer, IT Partner, Business, Internet, Development, Italy, PasteSoft, Pastesoft, Stefano Paluello, Paluello Stefano, Paste, Software, Soft" />
+            <meta name="description" content="Use technologies to live better!" />
+            <title>PasteSoft</title>
+            <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+            <link href="css/grayscale.css" rel="stylesheet">
+        </head>
+
+        <body id="page-top" data-spy="scroll" data-target=".navbar-custom">
+            <section class="intro">
+                <div class="bg">
+                <div class="logotext">
+                    <p class="logo">PasteSoft</p>
+                </div>
+                <div class="content">
+                    <p class="lineone">We are tireresly working on a new <span style="text-decoration: line-through; color: #e0860f;">galaxy</span> website ...</p>
+                    <p class="footer">© Copyright 2009 PasteSoft. All Rights Reserved</p>
+                </div>   
+                </div>
+            </section>    
+        </body>
+
+    </html>
